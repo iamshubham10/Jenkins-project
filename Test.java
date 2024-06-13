@@ -1,5 +1,3 @@
-package com.securityDemo.security.Utilities;
-
 import java.util.Date;
 
 public class Test {
