@@ -11,6 +11,7 @@ public class Test {
 		System.out.println(new Date());
 
 		for(int i=0;i<10;i++){
+			
 			System.out.println("even number : "+(i%10));
 		}
 		
